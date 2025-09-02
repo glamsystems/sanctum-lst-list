@@ -1,6 +1,6 @@
 {
-  "name": "sanctum-lst-list",
-  "version": "0.2.53",
+  "name": "@glamsystems/sanctum-lst-list",
+  "version": "0.2.54",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
   "types": "dist/mjs/index.d.ts",
@@ -38,10 +38,10 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.0.0"
   },
-  "homepage": "https://github.com/igneous-labs/sanctum-lst-list/tree/master/ts",
+  "homepage": "https://github.com/glamsystems/sanctum-lst-list/tree/master/ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igneous-labs/sanctum-lst-list.git"
+    "url": "git+https://github.com/glamsystems/sanctum-lst-list.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"

@@ -2695,6 +2695,474 @@ program = "Spl"
 pool = "Meso1TUDxhLvKKupvAQpZKqkKrJtpUTiEG9YFXcWXat"
 validator_list = "mESoZPZsVtGQ3B4KW2NHEMqFpjhRxPjP3XSMxZPN1yj"
 
+[[sanctum_lst_list]]
+name = "Forward Industries Staked SOL"
+symbol = "fwdSOL"
+mint = "cPQPBN7WubB3zyQDpzTK2ormx1BMdAym9xkrYUJsctm"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/sCrxsrKza0FmAjP5ijzBGyLasIK9mYJFNUy04fNNAeA"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2iZHumJq19hyCYkD3xFoZ6dbiFbJ5nqbwALMdJBYQsJa"
+validator_list = "Gfj8Zfvwfb7Jw38GLBHHkCUpgonB477gPKK75KvRt4s4"
+
+[[sanctum_lst_list]]
+name = "STKE SOL"
+symbol = "STKESOL"
+mint = "stke7uu3fXHsGqKVVjKnkmj65LRPVrqr4bLG2SJg7rh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://img.solstrategies.io/stkesol.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "StKeDUdSu7jMSnPJ1MPqDnk3RdEwD2QbJaisHMebGhw"
+validator_list = "StkemQE9eEzPZViA52YwYQqZU5cnYLvVfvch4p4Lsez"
+
+[[sanctum_lst_list]]
+name = "Axiom Staked SOL"
+symbol = "axiSOL"
+mint = "axiom1dWfDXKn6r4pn3jjaYuLTExG5TdLuAqXQohNuG"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://i.imgur.com/2vGTGMo.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "9N69d9o5hqdfDLMiPdFT5VBXpEf4UXSTsbmYLKc9Njpa"
+validator_list = "AuABRFyE5vDZ2XqV5FtKXxkwzETvJuqaBSdNSTXn8aoY"
+
+[[sanctum_lst_list]]
+name = "Mexc Staked SOL"
+symbol = "MXSOL"
+mint = "7cBuurYDdaqxnem7KyMTci6SWhjJKroZ6NUjqH2ewEPB"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "CV6bkrUksMwcEC4jfLTJsbHwF3Y2YurZdWWua95Fpbtd"
+validator_list = "4R2DSCvP6evbia1N7XJRzjto8W39mhxedyUnTYdyDSPe"
+
+[[sanctum_lst_list]]
+name = "Bitget Staked SOL"
+symbol = "BGSOL"
+mint = "bgSoLfRx1wRPehwC9TyG568AGjnf1sQG1MYa8s3FbfY"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://img.bgstatic.com/bgsol/bgsol.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "9qrFrE5qoZ3QfYZrZoeXFNRWfErpjzZKudCAoBTvgKjb"
+validator_list = "4MYEqx5HtTcfawuBkWN4r18jiCwwAKzzLvVHvuCUmvaR"
+
+[[sanctum_lst_list]]
+name = "Raiku Staked SOL"
+symbol = "rkuSOL"
+mint = "rkubjTrZYioRSeXwDnhwGQzvW3qkcin72JSxUt3WMVp"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/0y-faXJ7pArc83FnXv8bNf_0wjloZcTrUBNnbEMJ9Cg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "ERhozr6u9drmAANXGRNP1oh3quSqPKEwioKH5b8v9Kkt"
+validator_list = "BtRJM6kHw9hEKZRPtkcNG5F1T5FxZrBwdBzUXzVo8WY2"
+
+[[sanctum_lst_list]]
+name = "Save Staked SOL"
+symbol = "saveSOL"
+mint = "SAVEDpx3nFNdzG3ymJfShYnrBuYy7LtQEABZQ3qtTFt"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://save-assets.s3.us-east-1.amazonaws.com/assets/tokens/saveSOL.svg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "SAVEY1fVMBeRVo9V9rgEz8ENTvHreftd3QgpAKBDFV4"
+validator_list = "7e9n2WL4MSXVSLXw4rPxYVQUnHouKtspz7VUfdrkVgt"
+
+[[sanctum_lst_list]]
+name = "Corvus SOL"
+symbol = "corvusSOL"
+mint = "CorvuSSoLxPKLoXWXSfn8pFSMhCRHhe7Uwqe874cmwvg"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://pub-ca023c3462be43ae907f450320832e8b.r2.dev/logo.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "E5NXU96SgMEm49RBW8ZoAzs9MBr8fgxzLtypBNGKUS66"
+validator_list = "3t7L1Sc3YYtGVazNjCrXiTghEFywvoy5B1Gyh5Gpfth7"
+
+[[sanctum_lst_list]]
+name = "Theta Staked SOL"
+symbol = "ThetaSOL"
+mint = "J9fihFsaysmQSyebhsHcSShpzhje2aH73jdL9nafg7Ff"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://theta-sol.jp/theta_360_360.jpg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "AdHRYZkiUQg4zPANGHB4XxoUcjbfF5TkAaWJFZ9bQALV"
+validator_list = "GvFu21321E5aSVh4ELnkKxkW13sd6HUbGwjDfGkWpm1k"
+
+[[sanctum_lst_list]]
+name = "Yield SOL"
+symbol = "yieldSOL"
+mint = "yLdBrBJAYYkNMNSE48BAXYLTXhZsbHWtmWEFHgHSD6a"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/TZferu00LMEEmXe9iCHQYu9OGDzw5LmU0leiwP3FQLk"
+[sanctum_lst_list.pool]
+program = "SanctumSplMulti"
+pool = "6BBtpW5CKNai6oAdfmWR2H2bLmKm7QQrgYTGnfHnLzSe"
+validator_list = "5UxCFvCM44Zqd97eYcvA9LpRb99nvuSaXp34V92fNU5q"
+
+[[sanctum_lst_list]]
+name = "Famous Fox Federation Staked SOL"
+symbol = "foxySOL"
+mint = "FoxYewmpjh66W6PFA38k2JRYea22mxnwLLMkVmu5bNU"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/dmOQJCClFh3xDCmgL9GE2FdcOfV01-c9H1Nm3xKhlSE"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FSGzdD3vmKTn4Kh6mfpW6KaJTtMzUehQsZNfz6yoGL9m"
+validator_list = "J7nVd7hKBNbQKaWincMg3pGzocYgRw7LNbA8hH5hfUwy"
+
+[[sanctum_lst_list]]
+name = "2cWVRi4171yduSmAsNeSScw2u8WyrtAmjerjprWDCvxb"
+symbol = "2cWVRi4171yduSmAsNeSScw2u8WyrtAmjerjprWDCvxb"
+mint = "2cWVRi4171yduSmAsNeSScw2u8WyrtAmjerjprWDCvxb"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "FujqyFf2LW95Fsi8zjyYaLJJEdmDzoJjkR2NdpSKwuRS"
+validator_list = "GKGscwXA6rFXynEXDkWGGJDi3njo6Qgi5DfosnZdEAN3"
+
+[[sanctum_lst_list]]
+name = "IndieSOL"
+symbol = "IndieSOL"
+mint = "L33mHftsNpaj39z1omnGbGbuA5eKqSsbmr91rjTod48"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://4abzttm5ti36kt5hylv467hdf2pj4pgwdv5yimpxo4hjx6kkmx6q.arweave.net/4AOZzZ2aN-VPp8Lrz3zjLp6ePNYde4Qx93cOm_lKZf0"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "74dxJToX8wgJAueLQNVhSbbQkNd9qeVp6m9mts6M7cUb"
+validator_list = "FRJc2j8hSZYpumHDcxPTx3X7A5JoA2AkrpxQcHCmLW1g"
+
+[[sanctum_lst_list]]
+name = "Stacc Stake"
+symbol = "stacSOL"
+mint = "6K4xdfEk5rvySM496rxm4x8AgC9wVt7N4C7mFFpNAj5f"
+decimals = 9
+token_program = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+logo_uri = "https://unavatar.io/x/staccoverflow"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "E6oqvrLKexQwFJyCnQ8ewx8xt9tQo7uezat24f5Qixqb"
+validator_list = "5jyxP6U9r3GfJQs1rLHc3qKXLA8M3bJwQSh3XKn2R49j"
+
+[[sanctum_lst_list]]
+name = "Orca Staked SOL"
+symbol = "orcaSOL"
+mint = "orcaSo6gzWvvXvAHVJQVrxWmHepCcGp7swVX1yTBuoJ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/Qt786Bfm-kZWDwX2tCodPi1rmUyJsd0bGaUI_xaUKIM"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "8JX2GTYio5T7AJKXCNW2K8XmmZXmKCsgwUZu44qqNbNj"
+validator_list = "2HdHETyZmqkQ7Fos1T4AaEZVrVWBPg13gvwu4j85Ha8H"
+
+[[sanctum_lst_list]]
+name = "Genesis Toby Staked SOL"
+symbol = "genSOL"
+mint = "genMsDWwH9WuuosGJyfEi4yn9rDc1boG6TNafMfFc43"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/LfBU6ya0StrlnbnbnN0bDT2MExeiwg2EF9JntU9sxB8"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "F3LUW8DZ2ACxmBKtr4SWerb7aZfczwvrKXvRC6nJurZt"
+validator_list = "2Rw29jDhZH3XaYRF6ngKh2i96kP1eNuWxLA6KZsEJpuA"
+
+[[sanctum_lst_list]]
+name = "7SjostN5HL5Q3pV3UmvfAgQzcPx1HzHBXLc3Lgkq4HsJ"
+symbol = "7SjostN5HL5Q3pV3UmvfAgQzcPx1HzHBXLc3Lgkq4HsJ"
+mint = "7SjostN5HL5Q3pV3UmvfAgQzcPx1HzHBXLc3Lgkq4HsJ"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "3DuPtyTAKrxKfHkSPZ5fqCayMcGru1BarAKKTfGDeo2j"
+validator_list = "ACxRvBzixiporBKLnoSyHwmY4Vp3YwK5YZDz5hsKzmaU"
+
+[[sanctum_lst_list]]
+name = "Solstice Staked SOL"
+symbol = "solSOL"
+mint = "soLuqrygggsrxehAEhrsHgamSpWQUuPso3TiD8yFVwN"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/pu2vNKHE1Ze8IApYom1RM7QlhVbvkFuD0OvsgRwsDWg"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "Ej4N41mHsa8spRrJjuUge3yCwY9ZrjZgqpekQbAvDXrA"
+validator_list = "AyXZWmAG8PpG4GmZSa1ZrCHqreuyqB2aVV2PN3ig4bDL"
+
+[[sanctum_lst_list]]
+name = "Nansen Staked SOL"
+symbol = "nxSOL"
+mint = "sctmTAsDn4tLUcemqoqYijfuRkiEfAMPi84PNq2EueR"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/yIhHVanYDPbqPtBz2dx3Ew8kvY0GWUk9Et3u3ukjgms"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FyucURhqXtpSJzymEPmXLpr6tJKct5JuixVU5Tv9bCp7"
+validator_list = "EJj12WWy8RH3PgYmFY91SaFL5BtpbfdbQxSzzRg8sjzS"
+
+[[sanctum_lst_list]]
+name = "Hydex Staked SOL"
+symbol = "hySOL"
+mint = "hySo1JDBhfEnkXuTtPRLXK9HZhkVEpYM8VoHGv9MUnN"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/yxCYh90NEaH1n4CkepFKKpskUIYQ5pJwfWec88F_2JU"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "2usmhkW9RVEmmeuGQnSimpBmNmq5tBo8v3Dp5p3DGZzC"
+validator_list = "43m1UvQ2Y1C1QqbrnKjqqXjDM7kyKiJXiqHmL4Tf2rDb"
+
+[[sanctum_lst_list]]
+name = "StarPool staked SOL"
+symbol = "StarSOL"
+mint = "STARxPuRLr3R6huwJ2ppqoTZ65WtA6S2unEzYiYV8bh"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://starpool-website-public.s3.eu-west-1.amazonaws.com/favicon.svg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "starTGMJss5QCaNaNpSHNPQrWV5JcZczRPsc3iA4FTb"
+validator_list = "HnwjrSDi2dNHs5toekZ7kXUEzRWEVE6aBuw5nubLNxMD"
+
+[[sanctum_lst_list]]
+name = "IslandDAO Staked SOL"
+symbol = "islSOL"
+mint = "FjoaGzpBtXb8XcphCxUPpQEEMNejUsCcXPMNQk5N3Vca"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://bliq.so/api/v1/metadata/FjoaGzpBtXb8XcphCxUPpQEEMNejUsCcXPMNQk5N3Vca.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "5mpBN1bo3xCFH6Q1ddsqKkUNVQLCdSsYJrjFhRncWT8R"
+validator_list = "Bxant8vVoLPqnGoLLQygenxiKfrF1CgaP5CTDGx4Wfhv"
+
+[[sanctum_lst_list]]
+name = "ReFi Hub Staked Solana"
+symbol = "refiSOL"
+mint = "ReFiUWiedCHUVrWGgixsASGeM8ojWN4ujc2dXTCRQoD"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/tKDaXxWKZoza4TqtpsOc8eDA8jkOeM9BBJh_BcpAfHM"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "5xF1ywsZqRhH1YcgPr33ivpTZNtk81fpWJTTX9Hc9U4V"
+validator_list = "SrcyYeJbm6YRJGRij4sm7jZfBSebZURBJAWShDProrB"
+
+[[sanctum_lst_list]]
+name = "GODL Staked SOL"
+symbol = "godlSOL"
+mint = "gSoLFgQuJuQYgFFeYChc43yKp7j3DdjxC2JGcH7diDF"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/nOVc0dDYMjbjN8YHsQAe7p8aJ9i7zAg6IfaGVtkJmOc"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "BaRkVZKoUz4g1die6sWDFkjka2npaPCNfeHLmtasadC1"
+validator_list = "EV1kutPqGu6dLU6BS953VuqNtv2zysMeL5y41FGUeVv1"
+
+[[sanctum_lst_list]]
+name = "RUNx21P7pv9XgYdq6CXteDCjk8by2TGyvgDHoqRqi4s"
+symbol = "RUNx21P7pv9XgYdq6CXteDCjk8by2TGyvgDHoqRqi4s"
+mint = "RUNx21P7pv9XgYdq6CXteDCjk8by2TGyvgDHoqRqi4s"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "RUNxPVMzSsAJFhGG9ok78vZziDmP3i31uBMJV9Uf9UJ"
+validator_list = "2j6Z7LfbZW99wgXjxJmDgQZziWFezfAYMWvH8srR6jXr"
+
+[[sanctum_lst_list]]
+name = "J1toso1L4EzEJN64hADrs17vE5Fv3qJBbnFB3FqrR8uH"
+symbol = "J1toso1L4EzEJN64hADrs17vE5Fv3qJBbnFB3FqrR8uH"
+mint = "J1toso1L4EzEJN64hADrs17vE5Fv3qJBbnFB3FqrR8uH"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "KobeQvrdg63Z4YXsxX7KT7aHa6sGHoqs6JLSBExZS5z"
+validator_list = "5MG9ajRzUMmPhQiMtY2R7K9snU8ATuhjBKZW1eHcyb4c"
+
+[[sanctum_lst_list]]
+name = "EAT TRIBE Staked SOL"
+symbol = "eatSOL"
+mint = "EatFfcQsVg3eF4rHGWnXXcgoFT6dNu7HhkLMEfMPqa2G"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/kV461B9mlelqkvSqNzzbbZqglM2HIrARoCgltCTkiJw"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "CjSZsihkHP5RaVxCuv16cJsfou3RTAtdoeYTNPQCpa4T"
+validator_list = "2WniZVtx2kpNwyYRfM3yeWmB1DQkJTBj1qtjzSQRj6e1"
+
+[[sanctum_lst_list]]
+name = "bonkSOL"
+symbol = "bonkSOL"
+mint = "BnKsoL8xBYLVMhBCgpmTwHSmedXZvxpazSYvNK3whpz4"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://shdw-drive.genesysgo.net/35Ab7Znam9FfppDhpNZbfhtGkDPmiLDNgyyXKw8FFv2c/bonksol_no_bg.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "Bnks1YdMj6nL8P4moRFTZnK6PUxsXGjzKU4n15zRzjix"
+validator_list = "Dxv3yRRTosxGjiyxSuwbVJAAVrTG9DmWdK2U1rfRKXnZ"
+
+[[sanctum_lst_list]]
+name = "muSoLw3jb1Rz3vX2KT1QDZB7FwUCuTdhxzuvfRm5aWs"
+symbol = "muSoLw3jb1Rz3vX2KT1QDZB7FwUCuTdhxzuvfRm5aWs"
+mint = "muSoLw3jb1Rz3vX2KT1QDZB7FwUCuTdhxzuvfRm5aWs"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = ""
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "muPhLCLW39JpRNwVSETMUmRzpq6ASfoMC6XBphCAENy"
+validator_list = "muViCeFgeDugA3e9B1gXH6Q2sCgwjecPFUgqwrgLv7x"
+
+[[sanctum_lst_list]]
+name = "Save Staked SOL"
+symbol = "saveSOL"
+mint = "sctmpFDKXZPEfTCEgDHqwxepmorCpYA5Q2CrYUytGDU"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://solend.fi/apple-touch-icon.png"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "DpufHXpzNWmbVUcemz8nFRyZUsFr58k9xw8L9CHJsWgu"
+validator_list = "9GcbLyLRADnq5BgDhMeNEDCgShABbtGG1kGaGX1cdWF1"
+
+[[sanctum_lst_list]]
+name = "Blockponics Staked SOL"
+symbol = "koiSOL"
+mint = "koiJ3uQBo4nyaHPbkGUSs9qo4v7TGM74amhksvT5jnc"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/H54Q0nOhDZ8adTjlCOKmWOS4Fc58B23uD8niy7odlMs"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "FcrNvf1bzZrCQjHbKBY98JYZq8tZFe2zKorPjeLmz35i"
+validator_list = "5AF5Y1LnX8zrvH5xYQoN8BDAGi4dAt39jwxFNJ5Kjq1A"
+
+[[sanctum_lst_list]]
+name = "Cult Jare"
+symbol = "cult_j"
+mint = "Dj4uh34StsTUhYgGFpHCKXydVaAsvh5Sq61rLftdzT8b"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/BPkBpgt_Sd-8DJy-zXT8j3bXfTqDJe4CXCSiLsk4iHQ"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "H94wNeKNL76HxsD4qH5HrxrUdMvVvMpJkxYHJK9TiB9h"
+validator_list = "3N3qBexEGwvimv4GNprzVniToMS3AS9fcJF22XBKAWcE"
+
+[[sanctum_lst_list]]
+name = "SteakStache Staked SOL"
+symbol = "stacheSOL"
+mint = "3D23MKXkcfYNWcuJP2nW6KiMV5an4Nc2fC4Q5v9ixW8g"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://bliq.so/api/v1/metadata/3D23MKXkcfYNWcuJP2nW6KiMV5an4Nc2fC4Q5v9ixW8g.png"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "jrgfKTd1GYHFcpYE4y2wj4oVkbRwckSfw2DTuVaENDn"
+validator_list = "2rTx8ogJbQFbPGieSFFGbZfBxpN9ZTS8WL2JgQwMH5DK"
+
+[[sanctum_lst_list]]
+name = "Magnetic Staked SOL"
+symbol = "mgntSOL"
+mint = "mgntr7GPnAM6g5cDYMAmjbLvNmbfG3cN1pjAvbnWVKK"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/g_HFg0EF6gewn3G-azWEBv2U_8e_Nb5EQ9NnkjluNds"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "B9En3QZWBpSGazuTETW6enB7hUEZHBxGvsDnSA8mPJdf"
+validator_list = "G3p8p6iT1A29qKS9jUnk3xAtckTuCVR9vzmMGSCJnWrF"
+
+[[sanctum_lst_list]]
+name = "1st retard degen"
+symbol = "1st retard"
+mint = "3XFZhxwSqgrxg9HKN2rxMQkfAaVfYdrxkf9ySpznsywa"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/5AqO1Ud17aqPIzskXENB64JiUTupCMxig3nY7aWiM0E"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "41gUpczAF5FqWSmZ8vrcN3t5Cu1Z7xLZqAxccMTdKkVk"
+validator_list = "GcuJ5DL7JSe9jwRuntUDnasLGoV7JoQMuGpQcp83fiMU"
+
+[[sanctum_lst_list]]
+name = "Free-Stacc.fun"
+symbol = "FreeStacc"
+mint = "AJZU5dcBo1Kc7x7Qm2bV4aokSRP99qjoTy6hc6Q5icFk"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://degenfund.mypinata.cloud/ipfs/QmXJfUkMQcVSL9FtfwuXbEaDFHP7UzrYmz4oPrsTkT7wqB"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "5PtSUaPPqKFYA98njyTPRu49Y9h6Ny6iHaD4aApFSuQB"
+validator_list = "GAocvfFDxZSiyT7x84Sz8WxEgu7xrHvcAungfT1PBjme"
+
+[[sanctum_lst_list]]
+name = "Defi Station Staked SOL"
+symbol = "defiSOL"
+mint = "defiDymAmcYWJrxKsLep27XjhVNVQt6EsWXUCCgcyhq"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/08RQJdDEo06lOlLX4-VteAQEgeee9Ds1MFUU3BHLH18"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "HbGY5niBVeMRMR3GX5hzeJMn2KRaUrhTucy1kaA93op9"
+validator_list = "6PzfaB2357mtQincT9Ltn2eT55Xna6Q74WgerGwtggFM"
+
+[[sanctum_lst_list]]
+name = "uponly"
+symbol = "UP"
+mint = "GgaigJXoPxbRLuPW2gmVeZAXeY8nKkrtmLBZ3APTYA9"
+decimals = 9
+token_program = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+logo_uri = "https://i.imgur.com/nMxRWCF.pngg"
+[sanctum_lst_list.pool]
+program = "Spl"
+pool = "EA9TbD19LM4m1wPMAdUaVsnDDi18RgybY91137Xus7H2"
+validator_list = "CiyYmgRbTrZLzhcj7gac11yCWkDCsM27SuKqwiEWADUA"
+
+[[sanctum_lst_list]]
+name = "ZSOL"
+symbol = "ZSOL"
+mint = "zso1EF4k8HNteye34aD8w2Fm6pYVWMDgkgWCUrMLip1"
+decimals = 9
+token_program = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+logo_uri = "https://arweave.net/U8O8qsvTkQzGfxBWsOY_xrOzMv7_hg2uqXupcMYOw60"
+[sanctum_lst_list.pool]
+program = "SanctumSpl"
+pool = "3dG4FCs1MQtGjCaZrGRG3xP8W8FBDQkwVMCKCAaJvTiz"
+validator_list = "GRRSeAXUWzqi3b3Mkf8WwMzRZxxb76UHDm5wk7bhGurf"
+
 # ReservePool
 [[sanctum_lst_list]]
 name = "SOL"

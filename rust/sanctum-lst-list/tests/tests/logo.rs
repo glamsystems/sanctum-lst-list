@@ -3,7 +3,7 @@ use std::error::Error;
 use reqwest::header;
 use sanctum_lst_list::SanctumLst;
 
-use crate::common::find_sanctum_lst_by_symbol_unwrapped;
+use crate::common::{find_sanctum_lst_by_symbol_unwrapped, http_client};
 
 // Tests for latest batch
 
@@ -13,7 +13,7 @@ async fn verify_logo_image_uri_valid_latest_batch() {
 }
 
 async fn verify_token_logo_image_uri_valid_by_symbol(symbol: &str) {
-    let client = reqwest::Client::new();
+    let client = http_client();
     let sanctum_lst = find_sanctum_lst_by_symbol_unwrapped(symbol);
     verify_token_logo_image_uri_valid(&client, sanctum_lst).await;
 }
@@ -53,7 +53,7 @@ async fn fetch_logo_image_uri_content_type(
 #[cfg(feature = "test-all")]
 #[tokio::test]
 async fn verify_all_token_logo_image_uri_valid() {
-    let client: &'static reqwest::Client = Box::leak(Box::new(reqwest::Client::new()));
+    let client: &'static reqwest::Client = Box::leak(Box::new(http_client()));
     let mut js = tokio::task::JoinSet::new();
     crate::common::SANCTUM_LST_LIST
         .sanctum_lst_list

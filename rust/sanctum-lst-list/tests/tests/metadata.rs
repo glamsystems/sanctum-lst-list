@@ -6,7 +6,7 @@ use serde::Deserialize;
 use solana_client::nonblocking::rpc_client::RpcClient;
 use solana_sdk::commitment_config::CommitmentConfig;
 
-use crate::common::{find_sanctum_lst_by_symbol_unwrapped, SOLANA_RPC_URL};
+use crate::common::{find_sanctum_lst_by_symbol_unwrapped, http_client, SOLANA_RPC_URL};
 
 // Tests for latest batch
 
@@ -21,7 +21,7 @@ struct OffchainMetadata {
 }
 
 async fn verify_lst_token_metadata_by_symbol(symbol: &str) {
-    let client = reqwest::Client::new();
+    let client = http_client();
     let rpc = RpcClient::new(SOLANA_RPC_URL.to_owned());
     let sanctum_lst = find_sanctum_lst_by_symbol_unwrapped(symbol);
     verify_lst_token_metadata(&client, &rpc, sanctum_lst, &HashSet::new())
@@ -91,7 +91,7 @@ async fn verify_lst_token_metadata(
 #[cfg(feature = "test-all")]
 #[tokio::test]
 async fn verify_all_lsts_token_metadata() {
-    let client: &'static reqwest::Client = Box::leak(Box::new(reqwest::Client::new()));
+    let client: &'static reqwest::Client = Box::leak(Box::new(http_client()));
     let rpc = RpcClient::new(SOLANA_RPC_URL.to_owned());
     // just do it sequentially to avoid rpc limits
     let mut no_metadata_lsts = Vec::new();
